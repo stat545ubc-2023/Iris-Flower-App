@@ -1,0 +1,13 @@
+name: IrisFlowerApp2
+title: IrisFlowerApp2
+username: khanhnguyen11
+account: khanhnguyen11
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 10748439
+bundleId: 8022851
+url: https://khanhnguyen11.shinyapps.io/IrisFlowerApp2/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: .RData|B3 Assignment/app.R|B3 Assignment/README.md|B3 Assignment/www/irisflower.jpeg
